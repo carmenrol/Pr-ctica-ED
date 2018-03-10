@@ -18,6 +18,11 @@ public class practicaED
 		
 		
 		System.out.println(a+b*c+z);
+		
+		
+		System.out.println("hola Pablo!! Carmen pasó por aquí...");
+		
+	
 
 	}
 
