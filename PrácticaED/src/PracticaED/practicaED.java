@@ -15,9 +15,9 @@ public class practicaED
 		b=2;
 		c=3;
 		z=20;
-		x=1;
 		
-		System.out.println(a+b*c+z-1);
+		
+		System.out.println(a+b*c+z);
 
 	}
 
